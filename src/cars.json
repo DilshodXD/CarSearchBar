@@ -6,11 +6,6 @@
         "class": "Sports car Roadster"
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VW_Kuebelwagen_1.jpg/400px-VW_Kuebelwagen_1.jpg",
-        "title": "Volkswagen Kübelwagen",
-        "class": "Military vehicle"
-    },
-    {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2014_Porsche_Cayenne_%2892A_MY14%29_GTS_wagon_%282015-08-07%29_01.jpg/400px-2014_Porsche_Cayenne_%2892A_MY14%29_GTS_wagon_%282015-08-07%29_01.jpg",
         "title": "Porsche Cayenne",
         "start_production": 2002,
@@ -107,11 +102,6 @@
         "class": "Subcompact"
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seat_Leon_1.4_TSI_Start%26Stop_Style_%28III%29_%E2%80%93_Frontansicht%2C_10._August_2013%2C_Ratingen.jpg/400px-Seat_Leon_1.4_TSI_Start%26Stop_Style_%28III%29_%E2%80%93_Frontansicht%2C_10._August_2013%2C_Ratingen.jpg",
-        "title": "SEAT León",
-        "class": "Small family car"
-    },
-    {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chevrolet_Corsica_1994.jpg/400px-Chevrolet_Corsica_1994.jpg",
         "title": "Chevrolet Corsica",
         "start_production": 1987,
@@ -154,12 +144,6 @@
         "class": "Mid-size"
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/VW_Corrado_-_standard.jpg/400px-VW_Corrado_-_standard.jpg",
-        "title": "Volkswagen Corrado",
-        "start_production": 1988,
-        "class": "Sport compact"
-    },
-    {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercedes_R_350_CDI_4MATIC_Lang_%28V251%29_Facelift_front_20101017.jpg/400px-Mercedes_R_350_CDI_4MATIC_Lang_%28V251%29_Facelift_front_20101017.jpg",
         "title": "Mercedes-Benz R-Class",
         "class": "Full-size CUV / Large MPV"
@@ -169,11 +153,6 @@
         "title": "Volvo V50",
         "start_production": 2004,
         "class": "Compact / Small family car"
-    },
-    {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Audi_TT_Coup%C3%A9_2.0_TFSI_quattro_S-line_%288S%29_%E2%80%93_Frontansicht%2C_3._April_2015%2C_D%C3%BCsseldorf.jpg/400px-Audi_TT_Coup%C3%A9_2.0_TFSI_quattro_S-line_%288S%29_%E2%80%93_Frontansicht%2C_3._April_2015%2C_D%C3%BCsseldorf.jpg",
-        "title": "Audi TT",
-        "class": "Sport compact Sports car"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/VW_Touareg_Exclusive_V6_TDI_BlueMotion_Technology_%28II%29_%E2%80%93_Frontansicht%2C_3._Juli_2013%2C_M%C3%BCnster.jpg/400px-VW_Touareg_Exclusive_V6_TDI_BlueMotion_Technology_%28II%29_%E2%80%93_Frontansicht%2C_3._Juli_2013%2C_M%C3%BCnster.jpg",
@@ -218,21 +197,10 @@
         "class": "Sports car, GT"
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Audi_80_B1234.jpg/400px-Audi_80_B1234.jpg",
-        "title": "Audi 80",
-        "start_production": 1997,
-        "class": "Compact executive car"
-    },
-    {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Audi_A2_front_20071002.jpg/400px-Audi_A2_front_20071002.jpg",
         "title": "Audi A2",
         "start_production": 1999,
         "class": "Supermini"
-    },
-    {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oldsmobile-Intrigue.jpg/400px-Oldsmobile-Intrigue.jpg",
-        "title": "Oldsmobile Intrigue",
-        "class": "Mid-size car"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/91RT_1.jpg/400px-91RT_1.jpg",
@@ -310,12 +278,6 @@
         "title": "Chrysler 300",
         "start_production": 2003,
         "class": "Full-size luxury car"
-    },
-    {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Volvo_C30_RDesign_HRes.jpg/400px-Volvo_C30_RDesign_HRes.jpg",
-        "title": "Volvo C30",
-        "start_production": 2006,
-        "class": "Premium compact car"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Plymouth_Duster_%28Orange_Julep%29.jpg/400px-Plymouth_Duster_%28Orange_Julep%29.jpg",
@@ -444,12 +406,6 @@
         "class": "Full-size luxury sports sedan"
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chrysler-Concorde-Limited.jpg/400px-Chrysler-Concorde-Limited.jpg",
-        "title": "Chrysler Concorde",
-        "start_production": 1993,
-        "class": "Full-size"
-    },
-    {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/1992_Eagle_Premier_ES_Limited.jpg/400px-1992_Eagle_Premier_ES_Limited.jpg",
         "title": "Eagle Premier",
         "start_production": 1987,
@@ -460,18 +416,6 @@
         "title": "Lancia Thema",
         "start_production": 1984,
         "class": "Executive car"
-    },
-    {
-        "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/76_Pontiac_Astre.jpg",
-        "title": "Pontiac Astre",
-        "start_production": 1972,
-        "class": "Subcompact"
-    },
-    {
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vega_clay_model.jpg/400px-Vega_clay_model.jpg",
-        "title": "Chevrolet Vega",
-        "start_production": 1970,
-        "class": "Subcompact"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Oldsmobile_Firenza_coupe_2.jpg/400px-Oldsmobile_Firenza_coupe_2.jpg",
@@ -579,12 +523,6 @@
         "title": "Lincoln Aviator",
         "start_production": 2002,
         "class": "Mid-size luxury SUV"
-    },
-    {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/00-02_Lincoln_LS_.jpg/400px-00-02_Lincoln_LS_.jpg",
-        "title": "Lincoln LS",
-        "start_production": 1999,
-        "class": "Mid-size luxury car"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2002_Lincoln_Blackwood_2.jpg/400px-2002_Lincoln_Blackwood_2.jpg",
@@ -731,12 +669,6 @@
         "class": "Minivan"
     },
     {
-        "image": "",
-        "title": "Ɛ̃fini MS-8",
-        "start_production": 1992,
-        "class": "Luxury"
-    },
-    {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Autozam_Clef.JPG/400px-Autozam_Clef.JPG",
         "title": "Autozam Clef",
         "start_production": 1992,
@@ -765,12 +697,6 @@
         "title": "Mercury Lynx",
         "start_production": 1980,
         "class": "Compact"
-    },
-    {
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/89_Beretta_GT.jpg/400px-89_Beretta_GT.jpg",
-        "title": "Chevrolet Beretta",
-        "start_production": 1987,
-        "class": "Compact car"
     },
     {
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Citro%C3%ABn_C6_front_20100327.jpg/400px-Citro%C3%ABn_C6_front_20100327.jpg",

@@ -3,9 +3,20 @@ import './App.css'
 import { useState } from 'react'
 
 function App() {
-
   const [query, setQuery] = useState('')
-  console.log(query);
+  let obj = []
+
+  for (const car of cars) {
+    
+    if (query == '' && car.start_production !== undefined) {
+      obj.push(car)
+    }
+
+    let splited = car.title.toLocaleLowerCase().split(' ')
+    if (query.toLocaleLowerCase() == splited[0] && car.start_production !== undefined) {
+      obj.push(car)
+    }
+  }
 
   // console.log(cars.filter(car => car.title.includes("mazda")));
   return (
@@ -15,16 +26,23 @@ function App() {
       </div>
       <div className="container">
         <div className="main-items">
-          {cars.map((car) => (
-            <div className='main-item' key={Date.now}>
-              <img className='item-img' src={car.image} alt="car image" />
-              <p className='item-name'>{car.title}</p>
-            </div>
-          ))}
+          {obj
+            .sort((a, b) => a.start_production - b.start_production)
+            .sort()
+            .reverse()
+            .map(car => (
+              <div className='main-item' key={Date.now}>
+                <img className='item-img' src={car.image} alt="car image" />
+                <p className='item-name'>{car.title}</p>
+                <p className='item-name'>{car.start_production}</p>
+              </div>
+            ))}
         </div>
       </div>
     </div>
   )
 }
+
+
 
 export default App
