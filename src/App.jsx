@@ -1,6 +1,8 @@
 import cars from './cars.json'
 import './App.css'
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { useState } from 'react'
+import 'react-lazy-load-image-component/src/effects/opacity.css';
 
 function App() {
   const [query, setQuery] = useState('')
@@ -32,7 +34,7 @@ function App() {
             .reverse()
             .map(car => (
               <div className='main-item' key={Date.now}>
-                <img className='item-img' src={car.image} alt="car image" />
+                <LazyLoadImage effect="opacity" className='item-img' src={car.image} alt="car image" />
                 <p className='item-name'>{car.title}</p>
                 <p className='item-name'>{car.start_production}</p>
               </div>
